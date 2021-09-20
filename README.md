@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loic-bonaventura" alt="loic-bonaventura" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/lmnm__" target="blank"><img src="https://img.shields.io/twitter/follow/lmnm17_?logo=twitter&style=for-the-badge" alt="lmnm17_" /></a> </p>
+<p align="left"> <a href="https://twitter.com/lmnm__" target="blank"><img src="https://img.shields.io/twitter/follow/lmnm17_?logo=twitter&style=for-the-badge" alt="lmnm__" /></a> </p>
 
 - 🌱 I’m currently learning **Vue.js**
 
