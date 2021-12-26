@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 📫 You can reach me at **loic.bonaventura at gmail.com**
+- 📫 You can reach me at **contact at lbonaventura.xyz**
 
 - 🐧 I will quote Torvalds just once **"A computer is like air conditionning, it becomes useless when you open Windows."**
 
