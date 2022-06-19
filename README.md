@@ -1,5 +1,5 @@
 <h1 align="center">Hello friends 👋, I am Loïc Bonaventura</h1>
-<h3 align="center">A twenty year-old French Fullstack Web Developer</h3>
+<h3 align="center">A twenty-one year-old French Fullstack Web Developer</h3>
 
 <p align="left"> <a href="https://twitter.com/lmnm__" target="blank"><img src="https://img.shields.io/twitter/follow/lmnm__?logo=twitter&style=for-the-badge" alt="lmnm__" /></a> </p>
 
