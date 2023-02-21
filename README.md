@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/lmnm__" target="blank"><img src="https://img.shields.io/twitter/follow/lmnm__?logo=twitter&style=for-the-badge" alt="lmnm__" /></a> </p>
 
-- 🌱 I’m currently learning **Vue.js**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 You can reach me at **contact at lbonaventura.xyz**
 
